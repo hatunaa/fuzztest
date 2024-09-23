@@ -2,7 +2,6 @@
 
 ## What is FuzzTest?
 
-tuna123
 
 FuzzTest is a C++ testing framework for writing and executing *fuzz tests*,
 which are property-based tests executed using coverage-guided fuzzing under the
